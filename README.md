@@ -144,8 +144,8 @@ Option [New Product], [Delete Product], [Edit Product].
 <img width="951" alt="image" src="https://i.ibb.co/wQ0tvLJ/img2.png">
 <img width="952" alt="image" src="https://i.ibb.co/7Kf2Dh0/img3.png">
 <img width="950" alt="image" src="https://i.ibb.co/z8pQVMw/img4.png">
-<img width="954" alt="image" src="https://github.com/mohamadWatted/img5.git">
-<img width="950" alt="image" src="https://github.com/mohamadWatted/img6.git">
+<img width="954" alt="image" src="https://i.ibb.co/k5KQcDB/img5.png">
+<img width="950" alt="image" src="https://i.ibb.co/pQksq6R/img6.png">
 
 
 
