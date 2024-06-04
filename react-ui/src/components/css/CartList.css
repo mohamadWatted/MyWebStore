@@ -1,0 +1,35 @@
+/* Define styles for larger screens */
+.cart-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cart-items-list {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line on smaller screens */
+    justify-content: space-between; /* Distribute items evenly on larger screens */
+  }
+  
+  .cart-item {
+    width: 45%; /* Set a width for each cart item on larger screens */
+    margin-bottom: 20px;
+  }
+  
+  .cart-item-details {
+    position: relative;
+    left: 1rem;
+  }
+  
+  /* Define styles for smaller screens using media queries */
+  @media (max-width: 768px) {
+    .cart-items-list {
+      justify-content: center; /* Center items on smaller screens */
+    }
+  
+    .cart-item {
+      width: 100%; /* Take full width on smaller screens */
+    }
+  }
+  

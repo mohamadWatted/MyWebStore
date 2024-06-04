@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.on {
+  /* Light theme styles */
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.off {
+  /* Dark theme styles */
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.error-page {
+  text-align: center;
+  padding: 50px;
+}
+
+.error-page h1 {
+  font-size: 100px;
+  line-height: 100px;
+  margin-bottom: 0;
+}
+
+.error-page h2 {
+  font-size: 30px;
+  margin: 0 0 20px 0;
+}
+
+.error-page p {
+  margin: 20px 0 30px;
+}
+
+.error-page button {
+  padding: 10px 20px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error-page button:hover {
+  background-color: #0056b3;
+}

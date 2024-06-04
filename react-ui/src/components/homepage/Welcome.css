@@ -1,0 +1,36 @@
+@keyframes colorChange {
+    0% { background-color: rgb(0, 0, 0); }
+    25% { background-color: rgb(30, 30, 30); }
+    50% { background-color: rgb(105, 105, 105); }
+    75% { background-color: rgb(30, 30, 30); }
+    100% { background-color: rgb(0, 0, 0) }
+  }
+  .animated-background {
+    animation: colorChange 10s infinite;
+  }
+  
+  .heartbeat-button { 
+    position: relative;
+    display: inline-block;
+    margin: 20px;
+    transform: rotate(-45deg);
+    animation: heartbeat 1s infinite;
+  }
+  
+
+  .heartbeat-button:after {
+
+  }
+  
+  @keyframes heartbeat {
+    0% {
+      transform: scale(1) rotate(0deg);
+    }
+    50% {
+      transform: scale(0.9) rotate(0deg);
+    }
+    100% {
+      transform: scale(1) rotate(0deg);
+    }
+  }
+  

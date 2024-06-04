@@ -1,0 +1,5 @@
+/* styles.css */
+.list-group-item:hover {
+    background-color: #3498db; /* Light blue color */
+    color: #fff; /* White text color (optional) */
+  }

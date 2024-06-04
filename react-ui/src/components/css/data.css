@@ -1,0 +1,18 @@
+
+.data_container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card_grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 0 auto;
+    justify-content: center;
+    gap: 1.7rem; 
+    width: 1250px;
+    background: #3b35353c;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
