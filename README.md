@@ -142,7 +142,7 @@ Option [New Product], [Delete Product], [Edit Product].
 
 <img width="952" alt="image" src="https://i.ibb.co/RBbHY6R/img1.png">
 <img width="951" alt="image" src="https://i.ibb.co/wQ0tvLJ/img2.png">
-<img width="952" alt="image" src="https://github.com/mohamadWatted/img3.git">
+<img width="952" alt="image" src="https://i.ibb.co/7Kf2Dh0/img3.png">
 <img width="950" alt="image" src="https://github.com/mohamadWatted/img4.git">
 <img width="954" alt="image" src="https://github.com/mohamadWatted/img5.git">
 <img width="950" alt="image" src="https://github.com/mohamadWatted/img6.git">
